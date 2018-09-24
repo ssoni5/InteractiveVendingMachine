@@ -1,0 +1,7 @@
+C:\Users\SHAMOIL\Documents\IT-330\Assg3\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe.config
+C:\Users\SHAMOIL\Documents\IT-330\Assg3\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe
+C:\Users\SHAMOIL\Documents\IT-330\Assg3\VendingMachine\VendingMachine\bin\Debug\VendingMachine.pdb
+C:\Users\SHAMOIL\Documents\IT-330\Assg3\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csprojAssemblyReference.cache
+C:\Users\SHAMOIL\Documents\IT-330\Assg3\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\SHAMOIL\Documents\IT-330\Assg3\VendingMachine\VendingMachine\obj\Debug\VendingMachine.exe
+C:\Users\SHAMOIL\Documents\IT-330\Assg3\VendingMachine\VendingMachine\obj\Debug\VendingMachine.pdb
